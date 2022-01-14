@@ -1,2 +1,2 @@
 # CHAT-BOT
-chat bot, desenvolvido em python com juncao ao telegram.
+univerdade project, applied computing, idea to develop a chatbot, with automatic answers based on the requests made by the user.
